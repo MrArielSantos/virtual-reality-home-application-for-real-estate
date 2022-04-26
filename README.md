@@ -7,7 +7,7 @@ Virtual Reality Home Application was a simple android-based application develope
 * Camera features using GoogleVR
 * In Display User Navigation
 
-# Sample Video
+# Sample Video (Low Resolution Due to Github Limit)
 https://user-images.githubusercontent.com/104129662/165286336-bd05b1be-19b4-4eaa-bcea-f8689afd651a.mp4
 
 https://user-images.githubusercontent.com/104129662/165288087-d0b8aeff-c1e0-4f4a-9d41-12e26a2ac0fe.mp4
@@ -29,6 +29,10 @@ https://user-images.githubusercontent.com/104129662/165288087-d0b8aeff-c1e0-4f4a
 4. Then by clicking the Down Arrow Ui, you'll be then redirected to the home page. Here, the overall information of the business was shown, together with all of the available houses to choose from.
 
 ![5](https://user-images.githubusercontent.com/104129662/165287780-fb49c79a-3398-4da7-b8bd-ca5a44a2dc97.jpg)
+
+5. Click Select House tab under main navigation, by choosing the house name. You will be redirected to the selected home scene.
+
+![7](https://user-images.githubusercontent.com/104129662/165289195-05dd08e7-8f62-420d-b344-4a2b3d13c91c.jpg)
 
 
 
