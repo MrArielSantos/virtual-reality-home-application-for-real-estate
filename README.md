@@ -32,11 +32,15 @@ https://user-images.githubusercontent.com/104129662/165288087-d0b8aeff-c1e0-4f4a
 
 5. Click Select House tab under main navigation, by choosing the house name. The user will automatically be redirected to the selected home scene.
 
+6. In this scene, the user will be able to navigate between section of the house by clicking the corresponding UI arrow below. And here also the user can swit5ch between VR view mode simply by clicking the "View in VR Glasses" UI which might require a GoogleVRBox or CardBoardVR Box for a better user experiences.
+
 ![7](https://user-images.githubusercontent.com/104129662/165289195-05dd08e7-8f62-420d-b344-4a2b3d13c91c.jpg)
 
-6. In this scene, the user will be able to navigate between section of the house by clicking the corresponding UI arrow below. And here also the user can swit5ch between VR view mode simply by clicking the "View in VR Glasses" UI which might require a GoogleVRBox or CardBoardVR Box for a better user experiences.
+7. And Lastly, While in VR Mode the user can only navigate through head movement (gyro) or via connected controller if available.
 
 ![8](https://user-images.githubusercontent.com/104129662/165291155-d83890aa-80d4-4ee4-92e2-432ba5d914d3.jpg)
 
+# Thanks!
+# Not all files was shared to prevent copyright infringement from the business.
 
 
