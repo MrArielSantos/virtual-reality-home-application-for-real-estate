@@ -13,3 +13,6 @@ Virtual Reality Home Application was a simple android-based application develope
 
 ![SS](https://user-images.githubusercontent.com/104129662/165277614-6fc52104-d81a-4dcb-bdee-c4164c360eeb.jpg)
 
+1. When installation is complete, open the VR application from your smartphone.
+
+![Screenshot_20220426-180653_One UI Home](https://user-images.githubusercontent.com/104129662/165277980-b05d34cf-8f93-4ecc-8750-e7548d1304d4.jpg)
