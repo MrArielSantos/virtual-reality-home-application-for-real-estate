@@ -1,4 +1,8 @@
-# virtual-reality-home-application-for-real-estate
-Virtual Reality Home Application is an android-based application intended to improve the real estate marketing modules for real estate business through the use  of virtual reality. 
+# virtual-reality-home-tour-application-for-real-estate-business
+Virtual Reality Home Application is an android-based application developed through Unity Engine.
 
 # Feautures
+
+Business/Home Information
+Camera features using 2D and VR
+In Display User Navigation
