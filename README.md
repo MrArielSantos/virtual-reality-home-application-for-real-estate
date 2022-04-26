@@ -6,3 +6,7 @@ Virtual Reality Home Application is an android-based application developed throu
 * Business/Home Information
 * Camera features using 2D and VR
 * In Display User Navigation
+
+# Virtual Reality Home Tour Application User Manual
+
+
