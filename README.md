@@ -41,6 +41,6 @@ https://user-images.githubusercontent.com/104129662/165288087-d0b8aeff-c1e0-4f4a
 ![8](https://user-images.githubusercontent.com/104129662/165291155-d83890aa-80d4-4ee4-92e2-432ba5d914d3.jpg)
 
 # Thanks!
-# Not all files was shared to prevent copyright infringement from the previous client.
+# Not all files was shared to prevent copyright infringement from the client.
 
 
